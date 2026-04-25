@@ -19,7 +19,7 @@
 本專案採用**Item-based Collaborative Filtering**
 
 主要流程如下：
-- 將 ‵event_type‵ 轉換為 ‵event_score‵
+- 將 ‵event_type‵ 轉換為 `event_score`
     - view = 1
     - cart = 2
     - purchase = 3
